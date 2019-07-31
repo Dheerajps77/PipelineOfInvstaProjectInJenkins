@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Built-By: dheeraj.singh
+Class-Path: lib/json-simple-1.1.1.jar lib/junit-4.10.jar lib/hamcrest-
+ core-1.1.jar lib/fillo-1.18.jar lib/selenium-java-3.13.0.jar lib/sele
+ nium-api-3.13.0.jar lib/selenium-chrome-driver-3.13.0.jar lib/seleniu
+ m-edge-driver-3.13.0.jar lib/selenium-firefox-driver-3.13.0.jar lib/s
+ elenium-ie-driver-3.13.0.jar lib/selenium-opera-driver-3.13.0.jar lib
+ /selenium-remote-driver-3.13.0.jar lib/selenium-safari-driver-3.13.0.
+ jar lib/selenium-support-3.13.0.jar lib/byte-buddy-1.8.3.jar lib/comm
+ ons-exec-1.3.jar lib/commons-codec-1.10.jar lib/commons-logging-1.2.j
+ ar lib/gson-2.8.4.jar lib/guava-25.0-jre.jar lib/jsr305-1.3.9.jar lib
+ /checker-compat-qual-2.0.0.jar lib/error_prone_annotations-2.1.3.jar 
+ lib/j2objc-annotations-1.1.jar lib/animal-sniffer-annotations-1.14.ja
+ r lib/httpclient-4.5.5.jar lib/httpcore-4.4.9.jar lib/okhttp-3.10.0.j
+ ar lib/okio-1.14.1.jar lib/log4j-1.2.17.jar lib/commons-io-2.6.jar li
+ b/commons-lang3-3.8.jar lib/httpmime-4.5.2.jar lib/poi-ooxml-3.17.jar
+  lib/poi-3.17.jar lib/commons-collections4-4.1.jar lib/poi-ooxml-sche
+ mas-3.17.jar lib/xmlbeans-2.6.0.jar lib/stax-api-1.0.1.jar lib/curves
+ api-1.04.jar lib/commons-email-1.5.jar lib/javax.mail-1.5.6.jar lib/a
+ ctivation-1.1.jar lib/mysql-connector-java-5.1.6.jar lib/mssql-jdbc-7
+ .0.0.jre8.jar lib/htmlunit-driver-2.20.jar lib/htmlunit-2.20.jar lib/
+ xalan-2.7.2.jar lib/serializer-2.7.2.jar lib/htmlunit-core-js-2.17.ja
+ r lib/xercesImpl-2.11.0.jar lib/xml-apis-1.4.01.jar lib/nekohtml-1.9.
+ 22.jar lib/cssparser-0.9.18.jar lib/sac-1.3.jar lib/websocket-client-
+ 9.2.15.v20160210.jar lib/jetty-util-9.2.15.v20160210.jar lib/jetty-io
+ -9.2.15.v20160210.jar lib/websocket-common-9.2.15.v20160210.jar lib/w
+ ebsocket-api-9.2.15.v20160210.jar lib/commons-collections-3.2.2.jar l
+ ib/allure-testng-2.12.1.jar lib/allure-java-commons-2.12.1.jar lib/al
+ lure-model-2.12.1.jar lib/slf4j-api-1.7.25.jar lib/jackson-databind-2
+ .9.8.jar lib/jackson-annotations-2.9.0.jar lib/jackson-core-2.9.8.jar
+  lib/tika-core-1.20.jar lib/joor-java-8-0.9.10.jar lib/allure-java-an
+ notations-1.5.4.jar lib/allure-model-1.5.4.jar lib/jaxb2-basics-runti
+ me-0.9.3.jar lib/properties-2.0.RC5.jar lib/allure-environment-writer
+ -1.0.0.jar
+Build-Jdk: 1.8.0_201
+Created-By: Maven Integration for Eclipse
+Main-Class: com.investaSolutions.utils.RunTest
+

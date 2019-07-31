@@ -1,0 +1,14 @@
+2019-07-31 13:03:02 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 13:03:54 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 13:06:33 INFO  Logger:84 - Getting OS name
+2019-07-31 13:06:37 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 13:06:48 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 13:06:48 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 13:06:50 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 13:06:52 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 13:06:52 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 13:06:52 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 13:06:52 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 13:06:52 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 13:06:52 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]

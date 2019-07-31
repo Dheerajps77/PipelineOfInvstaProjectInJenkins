@@ -1,0 +1,10 @@
+ {  
+   "AM_User1":{  
+      "UserName":"john.doe@magic-am.com",
+      "Password":"magic"
+   },
+   "Bank_User1":{  
+      "UserName":"john.doe@magic-bank.com",
+      "Password":"magic"
+   }
+}
