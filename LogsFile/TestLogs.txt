@@ -12,3 +12,354 @@
 ], Actual details : [Instrument Management]
 2019-07-31 13:06:52 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
 2019-07-31 13:06:52 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 14:29:39 INFO  Logger:84 - Getting OS name
+2019-07-31 14:29:43 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 14:29:53 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 14:29:53 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 14:29:55 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 14:29:57 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 14:29:57 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 14:29:57 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 14:29:57 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 14:29:57 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 14:29:58 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 14:32:41 INFO  Logger:84 - Getting OS name
+2019-07-31 14:32:44 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 14:32:54 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 14:32:54 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 14:32:56 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 14:32:58 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 14:32:58 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 14:32:58 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 14:32:58 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 14:32:58 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 14:32:58 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 14:33:36 INFO  Logger:84 - Getting OS name
+2019-07-31 14:33:40 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 14:33:50 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 14:33:50 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 14:33:52 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 14:33:54 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 14:33:54 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 14:33:54 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 14:33:54 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 14:33:54 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 14:33:54 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 15:12:31 INFO  Logger:84 - Getting OS name
+2019-07-31 15:12:35 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 15:12:48 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 15:12:48 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 15:12:50 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 15:12:52 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 15:12:52 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 15:12:52 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 15:12:52 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 15:12:52 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 15:12:52 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 15:39:58 INFO  Logger:84 - Getting OS name
+2019-07-31 15:40:02 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 15:40:12 ERROR Logger:244 - The Instrument Managment tab and dropdown values test failed
+2019-07-31 15:40:12 ERROR Logger:244 - 
+2019-07-31 15:40:12 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 15:40:12 INFO  Logger:170 - Test testInstrumentManagementTest module has been failed
+2019-07-31 15:40:12 INFO  Logger:171 - org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Windows\TEMP\scoped_dir8...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:60744}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 2254ad374210dfd3e183736383dba725
+2019-07-31 15:45:24 INFO  Logger:84 - Getting OS name
+2019-07-31 15:45:27 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 15:45:39 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 15:45:39 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 15:45:41 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 15:45:44 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 15:45:44 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 15:45:44 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 15:45:44 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 15:45:44 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 15:45:44 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 15:47:23 INFO  Logger:84 - Getting OS name
+2019-07-31 15:47:26 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 15:47:36 ERROR Logger:244 - The Instrument Managment tab and dropdown values test failed
+2019-07-31 15:47:36 ERROR Logger:244 - 
+2019-07-31 15:47:36 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 15:47:36 INFO  Logger:170 - Test testInstrumentManagementTest module has been failed
+2019-07-31 15:47:36 INFO  Logger:171 - org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Windows\TEMP\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:61231}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 044aa040e0fb5f6d10cdb6710be2b309
+2019-07-31 15:58:00 INFO  Logger:84 - Getting OS name
+2019-07-31 15:58:04 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 15:58:15 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 15:58:15 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 15:58:17 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 15:58:19 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 15:58:19 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 15:58:19 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 15:58:19 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 15:58:19 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 15:58:19 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:00:01 INFO  Logger:84 - Getting OS name
+2019-07-31 16:00:05 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:00:15 ERROR Logger:244 - The Instrument Managment tab and dropdown values test failed
+2019-07-31 16:00:15 ERROR Logger:244 - 
+2019-07-31 16:00:15 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 16:00:15 INFO  Logger:170 - Test testInstrumentManagementTest module has been failed
+2019-07-31 16:00:15 INFO  Logger:171 - org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\DHEERA~1.SIN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62211}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: df6a4a1ecf335fb4585a625dacb308f1
+2019-07-31 16:01:43 INFO  Logger:84 - Getting OS name
+2019-07-31 16:01:47 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:01:58 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:01:58 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:02:00 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:02:02 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:02:02 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:02:02 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:02:02 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:02:03 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:02:03 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:05:35 INFO  Logger:84 - Getting OS name
+2019-07-31 16:05:39 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:05:49 ERROR Logger:244 - The Instrument Managment tab and dropdown values test failed
+2019-07-31 16:05:49 ERROR Logger:244 - 
+2019-07-31 16:05:49 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 16:05:49 INFO  Logger:170 - Test testInstrumentManagementTest module has been failed
+2019-07-31 16:05:49 INFO  Logger:171 - org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\DHEERA~1.SIN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62653}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 9d7937c373fc829a207ef1544224d168
+2019-07-31 16:06:32 INFO  Logger:84 - Getting OS name
+2019-07-31 16:06:36 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:06:46 ERROR Logger:244 - The Instrument Managment tab and dropdown values test failed
+2019-07-31 16:06:46 ERROR Logger:244 - 
+2019-07-31 16:06:46 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 16:06:46 INFO  Logger:170 - Test testInstrumentManagementTest module has been failed
+2019-07-31 16:06:46 INFO  Logger:171 - org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\DHEERA~1.SIN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62729}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 26d9f11217b68fc4953b50202b296021
+2019-07-31 16:07:26 INFO  Logger:84 - Getting OS name
+2019-07-31 16:07:30 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:07:40 ERROR Logger:244 - The Instrument Managment tab and dropdown values test failed
+2019-07-31 16:07:40 ERROR Logger:244 - 
+2019-07-31 16:07:40 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 16:07:40 INFO  Logger:170 - Test testInstrumentManagementTest module has been failed
+2019-07-31 16:07:40 INFO  Logger:171 - org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\DHEERA~1.SIN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62812}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 1b91b588bc00040db84a1c85df377808
+2019-07-31 16:09:11 INFO  Logger:84 - Getting OS name
+2019-07-31 16:09:15 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:09:25 ERROR Logger:244 - The Instrument Managment tab and dropdown values test failed
+2019-07-31 16:09:25 ERROR Logger:244 - 
+2019-07-31 16:09:25 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 16:09:25 INFO  Logger:170 - Test testInstrumentManagementTest module has been failed
+2019-07-31 16:09:25 INFO  Logger:171 - org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\DHEERA~1.SIN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62949}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: fa9604fa9c34fd5fe50ffb313f49e8de
+2019-07-31 16:10:33 INFO  Logger:84 - Getting OS name
+2019-07-31 16:10:37 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:10:47 ERROR Logger:244 - The Instrument Managment tab and dropdown values test failed
+2019-07-31 16:10:47 ERROR Logger:244 - 
+2019-07-31 16:10:47 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 16:10:47 INFO  Logger:170 - Test testInstrumentManagementTest module has been failed
+2019-07-31 16:10:47 INFO  Logger:171 - org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\DHEERA~1.SIN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63050}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 4bac3c9f8af457ae3b59cbf816aa83aa
+2019-07-31 16:15:06 INFO  Logger:84 - Getting OS name
+2019-07-31 16:15:10 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:15:20 ERROR Logger:244 - The Instrument Managment tab and dropdown values test failed
+2019-07-31 16:15:20 ERROR Logger:244 - 
+2019-07-31 16:15:20 INFO  Logger:166 - Test testInstrumentManagementTest module has been started
+2019-07-31 16:15:20 INFO  Logger:170 - Test testInstrumentManagementTest module has been failed
+2019-07-31 16:15:20 INFO  Logger:171 - org.openqa.selenium.TimeoutException: timeout
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RACD-002157', ip: '10.11.2.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\DHEERA~1.SIN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:63446}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 17b43a50f623b4f28d307cf660ad4e80
+2019-07-31 16:19:05 INFO  Logger:84 - Getting OS name
+2019-07-31 16:19:09 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:19:20 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:19:20 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:19:22 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:19:24 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:19:24 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:19:24 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:19:24 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:19:24 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:19:24 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:23:08 INFO  Logger:84 - Getting OS name
+2019-07-31 16:23:12 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:23:22 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:23:22 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:23:24 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:23:26 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:23:26 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:23:26 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:23:26 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:23:26 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:23:27 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:30:32 INFO  Logger:84 - Getting OS name
+2019-07-31 16:30:36 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:30:46 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:30:46 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:30:48 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:30:50 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:30:50 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:30:50 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:30:50 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:30:50 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:30:50 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:31:55 INFO  Logger:84 - Getting OS name
+2019-07-31 16:31:59 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:32:09 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:32:09 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:32:12 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:32:14 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:32:14 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:32:14 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:32:14 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:32:14 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:32:14 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:35:50 INFO  Logger:84 - Getting OS name
+2019-07-31 16:35:54 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:36:04 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:36:04 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:36:06 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:36:09 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:36:09 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:36:09 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:36:09 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:36:09 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:36:09 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:46:13 INFO  Logger:84 - Getting OS name
+2019-07-31 16:46:17 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:46:28 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:46:28 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:46:30 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:46:32 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:46:32 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:46:32 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:46:32 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:46:32 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:46:32 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:47:11 INFO  Logger:84 - Getting OS name
+2019-07-31 16:47:15 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:47:22 INFO  Logger:84 - Getting OS name
+2019-07-31 16:47:25 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:47:25 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:47:26 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:47:27 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:47:30 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:47:30 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:47:30 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:47:30 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:47:30 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:47:30 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:47:37 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:47:37 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:47:40 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:47:42 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:47:42 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:47:42 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:47:42 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:47:43 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:47:43 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:48:12 INFO  Logger:84 - Getting OS name
+2019-07-31 16:48:15 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:48:26 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:48:26 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:48:28 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:48:30 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:48:30 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:48:30 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:48:30 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:48:30 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:48:30 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:51:36 INFO  Logger:84 - Getting OS name
+2019-07-31 16:51:40 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:51:50 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:51:50 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:51:52 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:51:54 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:51:54 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:51:54 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:51:54 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:51:54 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:51:54 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
+2019-07-31 16:52:32 INFO  Logger:84 - Getting OS name
+2019-07-31 16:52:36 INFO  Logger:230 - Test [Verify Instruments Dropdown and instrument_list page Details] has been started
+2019-07-31 16:52:46 INFO  Logger:239 - Instrument Management tab title verification passed. Expected details : [Instrument Management], Actual details : [Instrument Management]
+2019-07-31 16:52:46 INFO  Logger:239 - Instrument Management tab is clicked
+2019-07-31 16:52:48 INFO  Logger:239 - Instrument Management dropdown values verfication passed. Expected details : [Instruments , Benchmarks ], Actual details : [, Instruments, Benchmarks]
+2019-07-31 16:52:50 INFO  Logger:239 - Instruments dropdown value is clicked
+2019-07-31 16:52:50 INFO  Logger:239 - Instrument_list page verification is passed.Expected details : [https://am.qa.investasolutions.com/#/instrument_list], Actual details : [https://am.qa.investasolutions.com/#/instrument_list]
+2019-07-31 16:52:50 INFO  Logger:239 - Instrument list page is opened
+2019-07-31 16:52:50 INFO  Logger:239 - Instrument Management title verification passed.Expected details : [Instrument Management
+], Actual details : [Instrument Management]
+2019-07-31 16:52:50 INFO  Logger:239 - The back button is present in the page. Expected details : [Back], Actual details : [Back]
+2019-07-31 16:52:51 INFO  Logger:239 - The New Instrument button is present in the page.Expected details : [New Instrument], Actual details : [New Instrument]
